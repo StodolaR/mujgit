@@ -1,2 +1,2 @@
 # testovaci repozitar
-tento  repozitar slouzi vyhradne pro ucely testovani
+tento  repozitar slouzi vyhradne pro ucely testovani 
